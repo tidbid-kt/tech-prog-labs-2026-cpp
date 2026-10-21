@@ -1,0 +1,11 @@
+build/
+out/
+cmake-build-*/
+
+### IDE ###
+.idea/
+.vscode/
+.vs/
+
+### Mac OS ###
+.DS_Store
