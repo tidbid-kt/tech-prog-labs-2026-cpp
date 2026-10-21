@@ -1,11 +1,14 @@
+### сборка ###
 build/
 out/
 cmake-build-*/
+.cache/
 
 ### IDE ###
 .idea/
 .vscode/
 .vs/
 
-### Mac OS ###
+### ОС ###
 .DS_Store
+Thumbs.db
